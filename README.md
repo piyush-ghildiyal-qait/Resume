@@ -12,15 +12,15 @@ piyushghildiyal@qainfotech.com
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2019
+:   **Btech ,CSE**; RKGIT ghaziabad
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2014-2015
+:   **12th**; DAV Public School
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+
+2012-2013
+:   **10th**; DAV Public School
 
     *Minor: Awesomeology*
 
