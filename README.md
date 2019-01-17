@@ -23,16 +23,13 @@ Education
 2012-2013
 :   **10th**; DAV Public School
 
-    *Minor: Awesomeology*
+    
 
-Experience
+Internship
 ----------
 
-**Your Most Recent Work Experience:**
+**Arise by Aricent:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
 
 * First item
 
