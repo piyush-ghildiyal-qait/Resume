@@ -3,9 +3,10 @@ Piyush Ghildiyal
 ============
 
 -------------------     ----------------------------
-E-470/D prtap vihar Ghaziabad
-India
+E-470/D prtap vihar Ghaziabad UttarPradesh India
+
 9911270307
+
 piyushghildiyal@qainfotech.com
 -------------------     ----------------------------
 
